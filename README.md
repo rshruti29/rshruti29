@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)                               <h1 align="center">Hi 👋, I'm Shruti Rathod</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">I'm a passionate engineer and tech enthusiast, from INDIA</h2>
 <img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rshruti29&label=Profile%20views&color=0e75b6&style=flat" alt="rshruti29" /> </p>
@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rshruti29&" alt="rshruti29" /></p>
 
-<h2 align="left">Hi 👋! My name is Shruti and I'm a passionate engineer and tech enthusiast, from INDIA</h2>
+
 
 ###
 
