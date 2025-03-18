@@ -1,5 +1,4 @@
-                           <h1 align="center">Hi 👋, I'm Shruti Rathod</h1>
-                           [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://tanjiro1709.io)
+ <h1 align="center">Hi 👋, I'm Shruti Rathod</h1>
 <h2 align="center">I'm a passionate engineer and tech enthusiast, from INDIA</h2>
 <img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 
