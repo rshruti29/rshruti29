@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rshruti29.io)                    <h1 align="center">Hi 👋, I'm Shruti Rathod</h1>
 <h3 align="center">I'm a passionate engineer and tech enthusiast, from INDIA</h3>
-<img align="right" alt=“coding” width="400"  src="https://github.com/user-attachments/assets/7c1d4ff4-0e07-4eea-a447-41673f6e749b" />
+<img align="right" alt=“coding” width="360"  src="https://github.com/user-attachments/assets/7c1d4ff4-0e07-4eea-a447-41673f6e749b" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rshruti29&label=Profile%20views&color=0e75b6&style=flat" alt="rshruti29" /> </p>
 
